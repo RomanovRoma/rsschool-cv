@@ -9,6 +9,9 @@
 **Github:** [RomanovRoma] (https://github.com/RomanovRoma "my github")
 
 ## Summary ##
+I'm a Front-End Developer searching for the new opportunities and challenges.
+Open for remote position or relocation.
+In my free time i like to explore open source projects and dance salsa.
 
 ## Skills ##
 
